@@ -2,9 +2,9 @@
 
 int sum(int n) {
 	int r=0;
-for(int i=1;i<=n; i++)
-	r+=i;
-	return r;
+	int x=0;
+	x=(r*(r+1))/2
+	return x;
 }
 
 
